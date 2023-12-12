@@ -4,7 +4,7 @@ HELP.md
 .DS_Store
 
 ### oauth2.0
-application-oauth.yml
+application-oauth.properties
 
 build/
 !gradle/wrapper/gradle-wrapper.jar
